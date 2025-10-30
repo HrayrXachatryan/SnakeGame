@@ -19,7 +19,7 @@ A vibrant take on the classic Snake game built entirely with Jetpack Compose. Th
 3. Build and run the app on an emulator or physical Android device.
 
 ## 📸 Screenshots
-*Add images to `docs/screenshots` and update the links below once available.*
+
 
 | Home | Gameplay | Game Over |
 | --- | --- | --- |
